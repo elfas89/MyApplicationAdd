@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplicationAdd.iml" filepath="$PROJECT_DIR$/MyApplicationAdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apprestful/apprestful.iml" filepath="$PROJECT_DIR$/apprestful/apprestful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appswipe/appswipe.iml" filepath="$PROJECT_DIR$/appswipe/appswipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0331sharedpreferences/p0331sharedpreferences.iml" filepath="$PROJECT_DIR$/p0331sharedpreferences/p0331sharedpreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0341simplesqlite/p0341simplesqlite.iml" filepath="$PROJECT_DIR$/p0341simplesqlite/p0341simplesqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0861asynctask/p0861asynctask.iml" filepath="$PROJECT_DIR$/p0861asynctask/p0861asynctask.iml" />
+    </modules>
+  </component>
+</project>
